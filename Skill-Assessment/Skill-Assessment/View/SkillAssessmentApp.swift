@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct Skill_AssessmentApp: App {
+struct SkillAssessmentApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MatchView()
         }
     }
 }
